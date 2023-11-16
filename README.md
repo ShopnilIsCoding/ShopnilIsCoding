@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/7af217b5-366c-48df-a80c-18b0684af3bb" alt="Your Image Alt Text">
-</p>
+</h1>
 
 
 <h3 align="center">A passionate game developer from Bangladesh.</h3>
