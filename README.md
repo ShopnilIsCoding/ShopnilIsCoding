@@ -3,7 +3,9 @@
 </h1>
 
 
-<h3 align="center">A passionate game developer from Bangladesh.</h3>
+<h3 align="center">
+  <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/021c9b41-0625-4e4c-be47-12031f990189" alt="Your Image Alt Text">
+</h3>
 
 <p align="center">
   <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/74105e5d-b83d-42e8-ab63-62cc21edf5c2.gif" alt="Your Image Alt Text">
