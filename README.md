@@ -24,7 +24,7 @@
 - ⚡ Fun fact **Being A Game Developer Try to Make Your Bugs Into Features!!**
 
 <p align="center">
-  <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/blob/main/assets/122216988/bab1b79b-a931-4577-98af-b664ca69e67a.gif" alt="Vanilla-1s-288px">
+  <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/7af217b5-366c-48df-a80c-18b0684af3bb" alt="Your Image Alt Text">
 </p>
 
 
