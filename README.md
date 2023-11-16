@@ -1,7 +1,10 @@
 <h1 align="center">I'm Rahomotul Islam (Shopnil)</h1>
 <h3 align="center">A passionate game developer from Bangladesh.</h3>
 
-![github](https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/74105e5d-b83d-42e8-ab63-62cc21edf5c2)
+<p align="center">
+  <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/74105e5d-b83d-42e8-ab63-62cc21edf5c2.gif" alt="Your Image Alt Text">
+</p>
+
   
 <img src="https://komarev.com/ghpvc/?username=shopniliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="shopniliscoding" /> </p>
 
