@@ -4,7 +4,7 @@
 
 
 <h3 align="center">
-  <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/021c9b41-0625-4e4c-be47-12031f990189" alt="Your Image Alt Text">
+  <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/85d086fc-f4d0-433a-b63b-6966d7764aa6" alt="Your Image Alt Text">
 </h3>
 
 <p align="center">
