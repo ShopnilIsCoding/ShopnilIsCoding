@@ -1,6 +1,6 @@
-<h1 align="center">
+<p align="center">
   <img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/blob/main/assets/122216988/bab1b79b-a931-4577-98af-b664ca69e67a.gif" alt="Vanilla-1s-288px">
-</h1>
+</p>
 
 <h3 align="center">A passionate game developer from Bangladesh.</h3>
 
