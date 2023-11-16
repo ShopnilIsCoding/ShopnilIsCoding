@@ -1,7 +1,9 @@
 <h1 align="center">I'm Rahomotul Islam (Shopnil)</h1>
 <h3 align="center">A passionate game developer from Bangladesh.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shopniliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="shopniliscoding" /> </p>
+<p align="left"> ![github](https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/393e12f5-1ea7-4933-8687-2f80d31b5d9b)
+  
+<img src="https://komarev.com/ghpvc/?username=shopniliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="shopniliscoding" /> </p>
 
 - 🔭 I’m currently studying **BSc in CSE**
 
@@ -14,6 +16,9 @@
 - 📫 How to reach me **shopnilkhan01@gmail.com**
 
 - ⚡ Fun fact **Being A Game Developer Try to Make Your Bugs Into Features!!**
+
+
+![4c6634_e49055c536b44e36bfaa2f0f3b96bd47~mv2](https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/d484052b-1f33-425b-9ea7-98ddf7629da4)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
