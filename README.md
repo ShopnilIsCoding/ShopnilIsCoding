@@ -1,7 +1,7 @@
 <h1 align="center">I'm Rahomotul Islam (Shopnil)</h1>
 <h3 align="center">A passionate game developer from Bangladesh.</h3>
 
-<p align="left"> ![github](https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/393e12f5-1ea7-4933-8687-2f80d31b5d9b)
+![github](https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/74105e5d-b83d-42e8-ab63-62cc21edf5c2)
   
 <img src="https://komarev.com/ghpvc/?username=shopniliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="shopniliscoding" /> </p>
 
@@ -20,8 +20,6 @@
 
 ![4c6634_e49055c536b44e36bfaa2f0f3b96bd47~mv2](https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/d484052b-1f33-425b-9ea7-98ddf7629da4)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
