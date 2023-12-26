@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **Unity and Web developing**
 
-- 👨‍💻 All of my projects will be available at [https://github.com/ShopnilIsCoding](https://github.com/ShopnilIsCoding)
+- 👨‍💻 All of my projects will be available at [ShopnilIsCoding](https://github.com/ShopnilIsCoding)
 
 - 💬 Ask me about **Unity engine,Unreal engine,Gadot.**
 
@@ -38,7 +38,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopniliscoding&show_icons=true&locale=en&layout=compact" alt="shopniliscoding" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopniliscoding&show_icons=true&locale=en" alt="shopniliscoding" /></p>
+/*<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopniliscoding&show_icons=true&locale=en" alt="shopniliscoding" /></p>*/
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopniliscoding&" alt="shopniliscoding" /></p>
 
