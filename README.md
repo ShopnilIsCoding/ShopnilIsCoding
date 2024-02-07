@@ -42,3 +42,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopniliscoding&" alt="shopniliscoding" /></p>
 
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/ShopnilIsCoding/contributions?format=svg&private=true)  
+
