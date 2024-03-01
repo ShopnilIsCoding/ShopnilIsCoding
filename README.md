@@ -38,10 +38,19 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ShopnilIsCoding)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shopniliscoding&show_icons=true&locale=en&layout=compact" alt="shopniliscoding" /></p>
+<h3 align="left">🔥   My Stats :</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shopniliscoding&show_icons=true&locale=en" alt="shopniliscoding" /></p>
+<div align="center">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shopniliscoding&" alt="shopniliscoding" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShopnilIsCoding&layout=compact&theme=yeblu" width="32%" alt="Top Langs"  />
+
+<img width="1%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShopnilIsCoding&theme=outrun" width="32%" alt="GitHub streak stats"  />
+
+<img width="1%" />
+<img src="https://github-readme-stats.vercel.app/api?username=ShopnilIsCoding&show_icons=true&count_private=true&theme=outrun" width="32%" alt="GitHub stats"  />
+
+</div>
 
 
