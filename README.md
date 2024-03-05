@@ -38,7 +38,7 @@
 
 <div style="text-align:center; margin-left:auto; margin-right:auto;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-        <img src="https://github-profile-trophy.vercel.app/?username=ShopnilIsCoding&no-bg=true&theme=onedark&margin-w=15&rank=SSS,SS,S,AAA,A,AA,B&no-frame=true" alt="trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=ShopnilIsCoding&no-bg=true&theme=onedark&margin-w=35&row=2&column=3&no-frame=true" alt="trophy">
     </a>
 </div>
 
