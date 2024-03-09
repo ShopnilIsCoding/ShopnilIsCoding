@@ -43,9 +43,7 @@
 </p>
 
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ShopnilIsCoding&no-bg=true&theme=onedark&margin-w=100&row=2&column=3&no-frame=true" alt="trophy"></a></p>
-
 ### 🔥 My Stats:
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShopnilIsCoding&layout=compact&theme=yeblu" width="32%" alt="Top Langs" />
   <img width="1%" />
