@@ -3,6 +3,12 @@
 # <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/74105e5d-b83d-42e8-ab63-62cc21edf5c2.gif" alt="Your Image Alt Text"></p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=shopniliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="shopniliscoding" />
+<p align="center">
+    <img align="center" width="100%%"
+        src="https://res.cloudinary.com/kajolroy/image/upload/v1674235287/zzzzzz_jvyjct.png"
+        alt="ikajolroy" />
+</p>
+
 
 - 🔭 I’m currently studying **BSc in CSE**
 - 🌱 I’m currently learning **Unity and Web developing**
