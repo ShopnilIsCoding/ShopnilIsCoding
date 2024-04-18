@@ -1,6 +1,5 @@
 # <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/7af217b5-366c-48df-a80c-18b0684af3bb" alt="Your Image Alt Text"></p>
 # <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/c5735db0-b967-4e0d-975b-9567774dcc3f" alt="Your Image Alt Text"></p>
-
 <img align="right" src="https://komarev.com/ghpvc/?username=shopniliscoding&label=Profile%20views&color=0e75b6&style=flat" alt="shopniliscoding" />
 <p align="center">
     <img align="center" width="100%%"
