@@ -15,6 +15,14 @@
 - 📫 How to reach me **shopnilkhan01@gmail.com**
 - ⚡ Fun fact **Being A Game Developer Try to Make Your Bugs Into Features!!**
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/rahomotulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahomotulislam" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/bulu_cf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="bulu_cf" height="30" width="40" /></a>
+</p>
+
+
 <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/d484052b-1f33-425b-9ea7-98ddf7629da4.gif" alt="Your Image Alt Text"></p>
 
 ### Languages and Tools:
