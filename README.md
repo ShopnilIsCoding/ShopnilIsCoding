@@ -7,15 +7,14 @@
         alt="Mern Stack" />
 </p>
 
-//# <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/c5735db0-b967-4e0d-975b-9567774dcc3f" alt="Your Image Alt Text"></p>
-#<img align="center" width="100%" src="https://en.bloggif.com/tmp/d115250c49381383b942c0c7bd6c63a8/text.gif?1719908344" />
+<img align="center" width="100%" src="https://en.bloggif.com/tmp/d115250c49381383b942c0c7bd6c63a8/text.gif?1719908344" />
 
 - 🔭 I’m currently studying **BSc in CSE**
-- 🌱 I’m currently learning **Unity and Web developing**
+- 🌱 I’m currently learning ** Web developing and Unity**
 - 👨‍💻 All of my projects will be available at [ShopnilIsCoding](https://github.com/ShopnilIsCoding)
-- 💬 Ask me about **Unity engine, Unreal engine, Gadot.**
-- 📫 How to reach me **shopnilkhan01@gmail.com**
-- ⚡ Fun fact **Being A Game Developer Try to Make Your Bugs Into Features!!**
+- 💬 Ask me about **Mern Stack,Unity engine**
+- 📫 How to reach me **shopnilkhan766@gmail.com**
+- ⚡ Fun fact **Being A Developer Try to Make Your Bugs Into Features!!**
 
 
 <h3 align="left">Connect with me:</h3>
