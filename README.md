@@ -8,6 +8,7 @@
 </p>
 
 # <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/c5735db0-b967-4e0d-975b-9567774dcc3f" alt="Your Image Alt Text"></p>
+<p>https://en.bloggif.com/tmp/d115250c49381383b942c0c7bd6c63a8/text.gif?1719908344</p>
 
 - 🔭 I’m currently studying **BSc in CSE**
 - 🌱 I’m currently learning **Unity and Web developing**
