@@ -4,11 +4,11 @@
 <p align="center">
     <img align="center" width="100%%"
         src="https://res.cloudinary.com/kajolroy/image/upload/v1674235287/zzzzzz_jvyjct.png"
-        alt="ikajolroy" />
+        alt="Mern Stack" />
 </p>
 
 # <p align="center"><img src="https://github.com/ShopnilIsCoding/ShopnilIsCoding/assets/122216988/c5735db0-b967-4e0d-975b-9567774dcc3f" alt="Your Image Alt Text"></p>
-<img src="https://en.bloggif.com/tmp/d115250c49381383b942c0c7bd6c63a8/text.gif?1719908344" />
+<img align="center" width="100%" src="https://en.bloggif.com/tmp/d115250c49381383b942c0c7bd6c63a8/text.gif?1719908344" />
 
 - 🔭 I’m currently studying **BSc in CSE**
 - 🌱 I’m currently learning **Unity and Web developing**
