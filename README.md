@@ -7,8 +7,6 @@
         alt="Mern Stack" />
 </p>
 
-<img align="center" width="100%" src="https://en.bloggif.com/tmp/d115250c49381383b942c0c7bd6c63a8/text.gif?1719908344" />
-
 - 🔭 I’m currently studying **BSc in CSE**
 - 🌱 I’m currently learning ** Web developing and Unity**
 - 👨‍💻 All of my projects will be available at [ShopnilIsCoding](https://github.com/ShopnilIsCoding)
